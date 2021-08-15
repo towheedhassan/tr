@@ -1,0 +1,145 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .login_btn{
+    padding: 1px !important;
+  }
+  .header img {
+    width: 131px !important;
+}
+.header h1 {
+  padding-top: 104px !important;
+  padding-bottom: 0 !important;
+  font-size: 41px !important;
+}
+.input_group_text {
+  padding: 0 25px !important;
+}
+.header p {
+  margin: 25px 0 !important;
+  font-size: 16px !important;
+}
+.features {
+  padding: 53px 0;
+}
+.features h1, .gallery h1 {
+  font-size: 37px;
+  font-weight: 900;
+  text-align: center;
+  padding-bottom: 0px;
+}
+#off {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+  letter-spacing: 0px !important;
+  font-size: 25px !important;
+}
+#t {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 0px !important;
+  font-size: 13px !important;
+}
+.gallery h1 {
+  margin-top: 23px !important;
+  padding: 49px !important;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+ 
+  .login_btn{
+    padding: 1px !important;
+  }
+  .header img {
+    width: 131px !important;
+}
+.header h1 {
+  padding-top: 104px !important;
+  padding-bottom: 0 !important;
+  font-size: 54px !important;
+}
+.input_group_text {
+  padding: 0 25px !important;
+}
+.header p {
+  margin: 40px 0 !important;
+  font-size: 18px !important;
+}
+.input_group {
+  margin-top: 25px !important;
+}
+.features {
+  padding: 53px 0;
+}
+.features h1, .gallery h1 {
+  font-size: 34px !important;
+  font-weight: 900 !important;
+  text-align: center;
+  padding-bottom: 0px;
+}
+#off {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+  letter-spacing: 0px !important;
+  font-size: 25px !important;
+}
+#t {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 0px !important;
+  font-size: 13px !important;
+}
+.gallery h1 {
+  margin-top: 23px !important;
+  padding: 49px !important;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){
+  .login_btn{
+    padding: 1px !important;
+  }
+  .header img {
+    width: 131px !important;
+}
+.header h1 {
+  padding-top: 240px !important;
+  padding-bottom: 0 !important;
+  font-size: 58px !important;
+}
+.header p {
+  margin: 25px 0 !important;
+  font-size: 20px !important;
+}
+.input_group_text {
+  padding: 0 25px !important;
+}
+.booking_btn {
+  margin-top: 39px;
+}
+.features h1, .gallery h1 {
+  font-size: 37px !important;
+}
+.t_c {
+  margin: 1rem 0.7rem 1rem;
+  max-width: 80vw
+}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+ 
+
+}
+
+/* Extra Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+  
+
+}
